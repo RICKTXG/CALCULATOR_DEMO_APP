@@ -1,0 +1,33 @@
+Hi guys.
+This is my first calculator application.
+I made it by Android Studio with the help of Java.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application(ISSUES):
+
+1) It can just stay Portrait.
+2) It has only 24 functional buttons.
+3) It can't autoresize Edittext.
