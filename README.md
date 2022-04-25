@@ -1,4 +1,4 @@
-# CALCULATOR_DEMO
+# CALCULATOR_DEMO_APP
 Hi guys.
 This is my first calculator application.
 I made it by Android Studio with the help of Java.
